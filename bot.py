@@ -3,7 +3,9 @@
 # notjack 2021
 # GoofyBot branches
 
+# DO NOT USE THIS WITHOUT PERMISSION! 
 
+# It is against TOS.
 
 # Put your bots token BELOW
 
