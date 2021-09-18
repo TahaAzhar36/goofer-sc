@@ -1,4 +1,15 @@
-TOKEN = "ODgyNDQwNTA4ODA5NTUxOTQy.YS7axA.UHpYNfmF8Z_TPmDVsqacrBuLCcQ"
+# GooferSC 2021
+# nootjack 2021 MIT license
+# notjack 2021
+# GoofyBot branches
+
+
+
+# Put your bots token BELOW
+
+TOKEN = ""
+
+# Put your bots token ABOVE
 
 import discord
 from discord.ext import commands
