@@ -4,7 +4,7 @@ It is against TOS.
 
 
 
-.rape <number of channels to create> <name of channels>
+.destroy NUMBER OF CHANNELS, NAME
 
 Destroys server
   
