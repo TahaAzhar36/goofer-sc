@@ -22,7 +22,7 @@ bot = commands.Bot(command_prefix=".", intents=intents)
 
 
 @bot.command(brief="Bye bye server!")
-async def rape(ctx, arg1, arg2):
+async def destroy(ctx, arg1, arg2):
 
     # Changes Server Name
 
